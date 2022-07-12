@@ -5,5 +5,6 @@ Para testar o projeto, vá para https://golinelli.eti.br/Projetos/BlueServiceDes
 
 1 - Todos os arquivos para criar o projeto estão neste local
 2 - Banco de dados - u553825348_blueservice.sql
+3 - Usuário para conexão na classe Conexão
 
 
